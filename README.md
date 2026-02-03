@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Arul Srivastva 👋 🚀
 
-<!--
-**ArulSrivastva-AVV/ArulSrivastva-AVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 First-Year B.Tech Student at Amrita Vishwa Vidyapeetham
+I am a passionate developer focused on building AI-driven solutions and mastering low-level programming. I enjoy bridging the gap between complex algorithms and user-friendly applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** C (Advanced), Python, Java, HTML/CSS
+- **Frameworks/Libraries:** PyTorch, Flask, React Native
+- **Specializations:** AI/ML, Reinforcement Learning, Data Structures
+
+---
+
+### 🏗 Featured Projects
+
+#### 🤖 [Tutor AI](https://github.com/[Your-Username]/Tutor-AI)
+* An AI built from scratch using **PyTorch** designed to teach C programming concepts.
+* Focuses on explaining complex topics like **Linked Lists** and **Memory Management**.
+
+#### 🧠 [Mood Checker ChatBot](https://github.com/[Your-Username]/A-Basic-Python-Mood-Checker-ChatBot)
+* A **Flask-based** web application that analyzes user sentiment and provides mood-based responses.
+
+#### 📁 [Portfolio Website](https://github.com/[Your-Username]/Portfolio-Using-HTML-AND-CSS)
+* A sleek, responsive personal site built with **HTML and CSS** to showcase my certifications and skills.
+
+---
+
+### 📜 Certifications
+- **C Programming - Payroll Management System** | Infosys Springboard
+- **Learn Programming with Java** | Infosys Springboard
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [Your Portfolio Link]
+
+*"I believe in learning by building."*
