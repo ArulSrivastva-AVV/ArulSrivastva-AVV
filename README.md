@@ -20,7 +20,7 @@ I am a passionate developer focused on building AI-driven solutions and masterin
   </a>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
     </a>
-  <img src="https://skillicons.dev/icons?i=canva" alt="Canva" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="Git-hub" height="40" />
     </a>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
     </a>
@@ -53,8 +53,11 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 ---
 
 ### 📊 GitHub Stats<p align="center">
-
+<p align='centre'>
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arulsrivastva-avv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaanvaish06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
