@@ -14,19 +14,14 @@ I am a passionate developer focused on building AI-driven solutions and masterin
   </a>
     <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c%2B%2B">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=react">
     <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=html">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=css">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
   </a>
 </p>
@@ -34,10 +29,10 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 
 ### 🏗 Featured Projects
 
-#### 🧠 [Mood Checker ChatBot](https://github.com/[Your-Username]/A-Basic-Python-Mood-Checker-ChatBot)
+#### 🧠 [Mood Checker ChatBot](https://github.com/arulsrivastva-avv/A-Basic-Python-Mood-Checker-ChatBot)
 * A **Flask-based** web application that analyzes user sentiment and provides mood-based responses.
 
-#### 📁 [Portfolio Website](https://github.com/[Your-Username]/Portfolio-Using-HTML-AND-CSS)
+#### 📁 [Portfolio Website](https://github.com/Arulsrivastva-avv/Portfolio-Using-HTML-AND-CSS)
 * A sleek, responsive personal site built with **HTML and CSS** to showcase my certifications and skills.
 
 ---
@@ -49,13 +44,11 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arulsrivastva-avv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arulsrivastva-avv&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [Your Portfolio Link]
-
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/arulsrivastva)
 *"I believe in learning by building."*
