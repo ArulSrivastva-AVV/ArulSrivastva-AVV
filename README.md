@@ -49,10 +49,6 @@ I am a passionate developer focused on building AI-driven solutions and masterin
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arulsrivastva-avv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arulsrivastva-avv&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me
