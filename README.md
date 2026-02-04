@@ -9,14 +9,30 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 - **Languages:** C (Advanced), Python, Java, HTML/CSS
 - **Frameworks/Libraries:** PyTorch, Flask, React Native
 - **Specializations:** AI/ML, Reinforcement Learning, Data Structures
-
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c%2B%2B">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=react">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=html">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  </a>
+  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=css">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
+  </a>
+</p>
 ---
 
 ### 🏗 Featured Projects
-
-#### 🤖 [Tutor AI](https://github.com/[Your-Username]/Tutor-AI)
-* An AI built from scratch using **PyTorch** designed to teach C programming concepts.
-* Focuses on explaining complex topics like **Linked Lists** and **Memory Management**.
 
 #### 🧠 [Mood Checker ChatBot](https://github.com/[Your-Username]/A-Basic-Python-Mood-Checker-ChatBot)
 * A **Flask-based** web application that analyzes user sentiment and provides mood-based responses.
