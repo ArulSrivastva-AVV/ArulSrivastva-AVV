@@ -18,8 +18,6 @@ I am a passionate developer focused on building AI-driven solutions and masterin
   </a>
     <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   </a>
-    <img src="https://skillicons.dev/icons?i=react-native" alt="React-Native" height="40" />
-  </a>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
     </a>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
