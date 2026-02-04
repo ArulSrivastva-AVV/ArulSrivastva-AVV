@@ -44,12 +44,20 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Arulsrivastva-avv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arulsrivastva-avv&layout=compact&theme=radical)
+### 📊 GitHub Stats<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arulsrivastva-avv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arulsrivastva-avv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arulsrivastva-avv&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/arulsrivastva)
+
+---
+
 *"I believe in learning by building."*
