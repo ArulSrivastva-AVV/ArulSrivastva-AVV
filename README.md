@@ -25,6 +25,7 @@ I am a passionate developer focused on building AI-driven solutions and masterin
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
   </a>
 </p>
+
 ---
 
 ### 🏗 Featured Projects
@@ -44,7 +45,7 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arulsrivastva-avv&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Arulsrivastva-avv&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arulsrivastva-avv&layout=compact&theme=radical)
 
 ---
