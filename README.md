@@ -14,11 +14,11 @@ I am a passionate developer focused on building AI-driven solutions and masterin
   </a>
     <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
   </a>
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
-  </a>
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
   </a>
     <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=react-native" alt="React-Native" height="40" />
   </a>
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   </a>
@@ -52,7 +52,7 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/arulsrivastva)
+- **LinkedIn:** [linkedin.com/in/arulsrivastva](https://linkedin.com/in/arulsrivastva)
 
 ---
 
