@@ -6,9 +6,8 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** C (Advanced), Python, Java, HTML/CSS
+- **Languages:** C, Python, Java, HTML/CSS
 - **Frameworks/Libraries:** PyTorch, Flask, React Native
-- **Specializations:** AI/ML, Reinforcement Learning, Data Structures
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
   </a>
